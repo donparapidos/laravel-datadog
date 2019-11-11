@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "61646d348a48eb99bf2641a0c6b6b376",
+    "content-hash": "49f835df31fd53318da6812eb744cfaa",
     "packages": [
         {
             "name": "datadog/php-datadogstatsd",
