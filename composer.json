@@ -2,6 +2,7 @@
     "name": "donparapidos/laravel-datadog",
     "type": "library",
     "description": "A better Dogstatsd integration with Laravel.",
+    "minimum-stability": "dev",
     "keywords": [
         "laravel",
         "datadog",
